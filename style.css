@@ -1,0 +1,16 @@
+
+.bg-img1{
+  height: 700px;
+  background-image: url(./image/img1.jfif);
+  background-size: cover;
+}
+.bg-img2{
+  height: 700px;
+  background-image: url(./image/img2.jfif);
+  background-size: cover;
+}
+.bg-img3{
+  height: 700px;
+  background-image: url(./image/img3.jpg);
+  background-size: cover;
+}
